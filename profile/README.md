@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #1a1a1a; padding: 20px; margin-bottom: 20px; border-radius: 8px;">
-  <img src="https://czfhzoiqgroeutuvevri.supabase.co/storage/v1/object/public/images-assaf//logo.svg" alt="nxty.ai" width="300" />
+  <img src="https://cdn.nxty.ai/issta/email_with_invoices/public/intersect1156-bne5.png" alt="nxty.ai" width="300" />
 </div>
 
 ## 🤖 Our Mission
